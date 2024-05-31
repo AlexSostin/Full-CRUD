@@ -1,0 +1,39 @@
+{
+  "destinations": [
+    {
+      "name": "Barcelona",
+      "score": 8.5,
+      "description": "Barcelona is the capital of Catalunya.",
+      "image": "https://media.timeout.com/images/105992807/750/422/image.webp",
+      "id": "9dc5"
+    },
+    {
+      "name": "Los Angeles",
+      "score": 7.9,
+      "description": "Los Angeles is in the west coast of the USA",
+      "image": "https://cdn.britannica.com/22/154122-050-B1D0A7FD/Skyline-Los-Angeles-California.jpg",
+      "id": "4369"
+    },
+    {
+      "name": "New York",
+      "score": 8.2,
+      "description": "New York is the biggest city in the USA",
+      "image": "https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg",
+      "id": "722c"
+    },
+    {
+      "id": "3334",
+      "name": "Brazil",
+      "score": "9.0",
+      "description": "A great country for football",
+      "image": "https://www.celebritycruises.com/blog/content/uploads/2021/09/what-is-brazil-known-for-christ-the-redeemer-aerial-hero-1920x890.jpg"
+    },
+    {
+      "name": "Argentina",
+      "score": "8.8",
+      "description": "Argentina",
+      "image": "https://static01.nyt.com/images/2022/12/20/multimedia/20argentina-parade-photo-stack-evening-1-4a19/20argentina-parade-photo-stack-evening-1-4a19-superJumbo.jpg?quality=75&auto=webp",
+      "id": "9655"
+    }
+  ]
+}
